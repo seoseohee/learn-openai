@@ -1,3 +1,4 @@
+#수정확인용
 # Note as of 02/27/2024
 # before you start you need to install the following
 # pip install langchain==0.1.9 langchain-openai==0.0.8

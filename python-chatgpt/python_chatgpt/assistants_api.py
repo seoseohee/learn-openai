@@ -5,6 +5,7 @@ from openai import OpenAI
 
 client = OpenAI()
 
+
 # create an assistant
 assistant = client.beta.assistants.create(
     name="Math Tutor",
